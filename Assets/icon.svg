@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="icon" transform="translate(-85 -33)">
+    <rect id="Rectangle_2351" data-name="Rectangle 2351" width="80" height="80" transform="translate(85 33)" fill="#373737"/>
+    <rect id="Ball" width="10" height="10" rx="5" transform="translate(120 68)" fill="#eee"/>
+    <rect id="Paddle" width="62" height="8" transform="translate(94 99)" fill="#ffe856"/>
+    <rect id="Paddle-2" data-name="Paddle" width="8" height="8" transform="translate(94 39)" fill="#ffe856"/>
+    <rect id="Paddle-3" data-name="Paddle" width="8" height="8" transform="translate(103 39)" fill="#ffe856"/>
+    <rect id="Paddle-4" data-name="Paddle" width="8" height="8" transform="translate(112 39)" fill="#ffe856"/>
+    <rect id="Paddle-5" data-name="Paddle" width="8" height="8" transform="translate(121 39)" fill="#ffe856"/>
+    <rect id="Paddle-6" data-name="Paddle" width="8" height="8" transform="translate(130 39)" fill="#ffe856"/>
+    <rect id="Paddle-7" data-name="Paddle" width="8" height="8" transform="translate(139 39)" fill="#ffe856"/>
+    <rect id="Paddle-8" data-name="Paddle" width="8" height="8" transform="translate(148 39)" fill="#ffe856"/>
+  </g>
+</svg>
